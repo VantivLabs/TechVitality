@@ -33,7 +33,7 @@ Please feel free to contribute to this repo or have a look at the original Thoug
 
 ### Test/Dev/Debug
 
-- `git clone git@github.com:mercurypay/TechVitality.git` or download the .zip file and extract manually
+- `git clone git@github.com:VantivLabs/TechVitality.git` or download the .zip file and extract manually
 - `npm install`
 - `npm test` - to run your tests
 - `npm run dev` - to run application in localhost:8080. This will watch the .js and .css files and rebuild on file changes.  Navigate to http://localhost:8080 when running to view your 'radar'.
